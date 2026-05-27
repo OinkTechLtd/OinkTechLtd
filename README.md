@@ -136,8 +136,8 @@ We're always open to new opportunities, partnerships, and exciting projects!
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-OinkTechLtd-181717?style=for-the-badge&logo=github)](https://github.com/OinkTechLtd)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail)](mailto:contact@oinktechltd.com)
-[![Website](https://img.shields.io/badge/Website-Visit%20Us-0078D4?style=for-the-badge&logo=internet-explorer)](https://oinktechltd.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail)](mailto:ginkdev@mail.ru)
+[![Website](https://img.shields.io/badge/Website-Visit%20Us-0078D4?style=for-the-badge&logo=internet-explorer)](https://oinktech.blyz.ru)
 
 </div>
 
@@ -166,7 +166,7 @@ We're always open to new opportunities, partnerships, and exciting projects!
 
 <p align="center">
   <strong>Built with ❤️ by OinkTechLtd Team</strong><br>
-  <em>© 2024 OinkTechLtd. All rights reserved.</em>
+  <em>© 2026 OinkTechLtd. All rights reserved.</em>
 </p>
 
 <p align="center">
