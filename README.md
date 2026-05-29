@@ -247,7 +247,8 @@ Below are repositories and project directions that look the most attractive for 
 ## 🤝 Больше от OinkTech (RU)
 
 Мы развиваем технологии в двух организациях. Загляни, там много интересного:
-
+<!-- REPO_BANNER_START -->
+<!-- REPO_BANNER_END -->
 
 
 ## Наши организации
