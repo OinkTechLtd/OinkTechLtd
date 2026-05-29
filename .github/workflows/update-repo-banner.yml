@@ -1,0 +1,51 @@
+name: Update Repo Banner
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # раз в день
+  workflow_dispatch:     # можно запустить вручную
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate repo list
+        run: |
+          python -c "
+          import requests, json
+          repos = []
+          for org in ['OinkTechLtd', 'OinkTechLLC']:
+              url = f'https://api.github.com/orgs/{org}/repos'
+              page = 1
+              while True:
+                  resp = requests.get(url, params={'page': page, 'per_page': 100})
+                  if resp.status_code != 200: break
+                  data = resp.json()
+                  if not data: break
+                  for r in data:
+                      repos.append(f'<a href=\"{r[\"html_url\"]}\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username={org}&repo={r[\"name\"]}&theme=radical\" width=\"45%\" style=\"margin:5px\"/></a>')
+                  page += 1
+          with open('README.md', 'r') as f:
+              content = f.read()
+          start = '<!-- REPO_BANNER_START -->'
+          end = '<!-- REPO_BANNER_END -->'
+          new_banner = start + '\n<p align=\"center\">\n' + '\n'.join(repos) + '\n</p>\n' + end
+          if start in content and end in content:
+              new_content = content.split(start)[0] + new_banner + content.split(end)[1]
+          else:
+              new_content = content + '\n\n' + new_banner
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+          print('README updated')
+          "
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update repo banner"
+          git push
