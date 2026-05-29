@@ -1,6 +1,12 @@
 <h1 align="center">
   <a href="https://github.com/OinkTechLtd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&vCenter=true&random=false&width=600&height=35&lines=Welcome+to+OinkTechLtd+%F0%9F%9A%80;Innovative+Software+Solutions+%F0%9F%92%A1;AI-Powered+Development+%F0%9F%A4%96+%7C+AI+%26+Opensource+apps%2C+tools+and+platforms+%F0%9F%92%A1;Build+fast.+Ship+clean." alt="OinkTechLtd banner" />
+   <div style="max-width: 100%; overflow-x: auto; text-align: center;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&vCenter=true&random=false&width=600&height=35&lines=Welcome+to+OinkTechLtd+%F0%9F%9A%80;Innovative+Software+Solutions+%F0%9F%92%A1;AI-Powered+Development+%F0%9F%A4%96+%7C+AI+%26+Product+Studio+%F0%9F%9A%80;Open-source+apps%2C+tools+and+platforms+%F0%9F%92%A1;Build+fast.+Ship+clean.+Improve+daily+%F0%9F%90%B7" 
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+    alt="OinkTechLtd banner"
+  />
+</div>
   </a>
 </h1>
 
