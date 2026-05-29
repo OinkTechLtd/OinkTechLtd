@@ -257,6 +257,32 @@ Below are repositories and project directions that look the most attractive for 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLLC&repo=OinkTechLLC&theme=radical&show_owner=true" alt="OinkTechLLC GitHub Stats">
   </a>
 </p>
+## Наши проекты
+
+### 1. AI Assistant Platform
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLtd&repo=ai-assistant-platform&theme=dark&show_owner=true)](https://github.com/OinkTechLtd/ai-assistant-platform)
+> 🤖 AI-ассистент с LangChain, FastAPI и React
+
+### 2. Cloud Management Dashboard
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLtd&repo=cloud-dashboard&theme=dark&show_owner=true)](https://github.com/OinkTechLtd/cloud-dashboard)
+> ☁️ Управление облаками с NestJS, Angular и K8s
+
+### 3. Mobile Commerce App
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLtd&repo=mobile-commerce&theme=dark&show_owner=true)](https://github.com/OinkTechLtd/mobile-commerce)
+> 📱 Мобильная коммерция с Go, RN и Stripe
+
+### 4. Secure Authentication Service
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLtd&repo=auth-service&theme=dark&show_owner=true)](https://github.com/OinkTechLtd/auth-service)
+> 🔐 Enterprise-аутентификация с Spring Boot и Kafka
+
+### 5. Analytics & BI Platform
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLtd&repo=analytics-bi&theme=dark&show_owner=true)](https://github.com/OinkTechLtd/analytics-bi)
+> 📊 BI-платформа с Django, Vue и TensorFlow
+
+## Наши организации
+
+[![OinkTechLtd](https://img.shields.io/badge/OinkTechLtd-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OinkTechLtd)
+[![OinkTechLLC](https://img.shields.io/badge/OinkTechLLC-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OinkTechLLC)
 <p align="center">
   <a href="#-about-oinktechltd">Back to top ⬆️</a>
 </p>
