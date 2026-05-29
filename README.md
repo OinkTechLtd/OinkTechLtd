@@ -35,6 +35,10 @@
   <a href="mailto:ginkdev@mail.ru"><img src="https://img.shields.io/badge/Email-ginkdev%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/oinktech"><img src="https://img.shields.io/badge/Telegram-%40oinktech-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
+## 🤝 Больше от OinkTech (RU)
+
+Мы развиваем технологии в двух организациях. Загляни, там много интересного:
+
 
 ---
 
@@ -257,18 +261,7 @@ Below are repositories and project directions that look the most attractive for 
   <strong>Built with ❤️ by OinkTechLtd Team</strong><br>
   <em>© 2026 OinkTechLtd. All rights reserved.</em>
 </p>
-## 🤝 Больше от OinkTech (RU)
 
-Мы развиваем технологии в двух организациях. Загляни, там много интересного:
-
-<p align="center">
-  <a href="https://github.com/OinkTechLtd/ai-assistant-platform">
-    <img src="https://secure-272717.tatnet.app/github-readme-stats.vercel.app/api/pin/?username=OinkTechLtd&repo=ai-assistant-platform&theme=radical" width="45%" />
-  </a>
-  <a href="https://github.com/OinkTechLLC/cloud-dashboard">
-    <img src="https://secure-272717.tatnet.app/github-readme-stats.vercel.app/api/pin/?username=OinkTechLLC&repo=cloud-dashboard&theme=radical" width="45%" />
-  </a>
-</p>
 
 
 ## Наши организации
