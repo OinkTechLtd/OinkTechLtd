@@ -2,7 +2,7 @@
   <a href="https://github.com/OinkTechLtd">
    <picture>
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&vCenter=true&random=false&width=800&height=35&lines=Welcome+to+OinkTechLtd+%F0%9F%9A%80;Innovative+Software+Solutions+%F0%9F%92%A1;AI-Powered+Development+%F0%9F%A4%96+%7C+AI+%26+Product+Studio+%F0%9F%9A%80;Open-source+apps%2C+tools+and+platforms+%F0%9F%92%A1;Build+fast.+Ship+clean.+Improve+daily+%F0%9F%90%B7" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&vCenter=true&random=false&width=800&height=35&lines=Welcome+to+OinkTechLtd+%F0%9F%9A%80;Innovative+Software+Solutions+%F0%9F%92%A1;AI-Powered+Development+%F0%9F%A4%96+%7C+AI+%26+Product+Studio+%F0%9F%9A%80;Open-source+apps%2C+tools+and+platforms+%F0%9F%92%A1;Build+fast.+Ship+clean.+Improve+daily" 
       alt="OinkTechLtd banner" 
       style="max-width: 100%; height: auto; display: block; margin: 0 auto; overflow: visible;"
     />
