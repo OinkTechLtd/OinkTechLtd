@@ -16,10 +16,6 @@
   <a href="https://github.com/OinkTechLLC?tab=followers"><img src="https://img.shields.io/github/followers/OinkTechLLC?label=OinkTechLLC&style=for-the-badge&logo=github&color=181717" alt="OinkTechLLC followers" /></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OinkTechLtd&show_icons=true&theme=radical&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OinkTechLtd&layout=compact&theme=radical" width="48%" />
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=OinkTechLtd&fontSize=60&color=auto&reversal=false&description=AI%20%26%20Product%20Studio&descAlignY=75&animation=twinkling" width="100%" />
 </p>
 <p align="center">
