@@ -32,10 +32,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLtd&repo=ai-assistant-platform&theme=radical&show_owner=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLLC&repo=cloud-dashboard&theme=radical&show_owner=true" width="45%" />
-</p>
+
 <p align="center">
   <a href="https://github.com/OinkTechLtd"><img src="https://img.shields.io/badge/Main-GitHub%20OinkTechLtd-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="OinkTechLtd" /></a>
   <a href="https://github.com/OinkTechLLC"><img src="https://img.shields.io/badge/Second-GitHub%20OinkTechLLC-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="OinkTechLLC" /></a>
