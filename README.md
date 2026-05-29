@@ -244,7 +244,19 @@ Below are repositories and project directions that look the most attractive for 
   <strong>Built with ❤️ by OinkTechLtd Team</strong><br>
   <em>© 2026 OinkTechLtd. All rights reserved.</em>
 </p>
+## 🤝 Больше от OinkTech (RU)
 
+Мы развиваем технологии в двух организациях. Загляни, там много интересного:
+
+<p align="center">
+  <a href="https://github.com/OinkTechLtd" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLtd&repo=OinkTechLtd&theme=radical&show_owner=true" alt="OinkTechLtd GitHub Stats">
+  </a>
+
+  <a href="https://github.com/OinkTechLLC" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OinkTechLLC&repo=OinkTechLLC&theme=radical&show_owner=true" alt="OinkTechLLC GitHub Stats">
+  </a>
+</p>
 <p align="center">
   <a href="#-about-oinktechltd">Back to top ⬆️</a>
 </p>
