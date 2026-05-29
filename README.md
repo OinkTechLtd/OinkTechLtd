@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=OinkTechLtd&fontSize=60&color=auto&reversal=false&description=AI%20%26%20Product%20Studio&descAlignY=75&animation=twinkling" width="100%" />
 </p>
-## Почему мы?
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
